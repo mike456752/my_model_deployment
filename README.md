@@ -15,6 +15,8 @@ source venv/bin/activate
 
 3.create procfile
 
+3.5. choose a the virtual interpreter
+
 4.set requirment file :python3 -m pip freeze > requirements.txt
 attetion: 
 sklearn in local is old version. However, on the heroku wesbite, it needs the newest version.
