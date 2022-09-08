@@ -22,6 +22,8 @@ attetion:
 sklearn in local is old version. However, on the heroku wesbite, it needs the newest version.
 don't forget to install gunicorn
 
+check all the version please
+
 5.upload on the github
 
 6.deploy on the heroku
