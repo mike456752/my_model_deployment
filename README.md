@@ -23,7 +23,8 @@ don't forget to install gunicorn
 5.upload on the github
 
 6.deploy on the heroku
- 
+
+7.here is the link:https://fclass.herokuapp.com/
 
 submission date 1/09/2022
 submitted to data glacier
