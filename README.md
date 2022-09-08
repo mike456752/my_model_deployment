@@ -1,6 +1,8 @@
 # my_model_deployment
 Zongkun
 
+Batch code:LISUM12
+
 0.init a virtual environment:
 
 python3 -m venv venv
